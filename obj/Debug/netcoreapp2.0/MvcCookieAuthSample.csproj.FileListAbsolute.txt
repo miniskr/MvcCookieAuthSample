@@ -1,0 +1,10 @@
+F:\MyStudy\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.deps.json
+F:\MyStudy\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.json
+F:\MyStudy\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.dev.json
+F:\MyStudy\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+F:\MyStudy\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
+F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.csproj.CoreCompileInputs.cache
+F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfoInputs.cache
+F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfo.cs
+F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
