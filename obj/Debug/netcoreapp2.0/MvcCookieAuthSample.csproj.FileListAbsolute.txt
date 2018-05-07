@@ -8,3 +8,13 @@ F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.Assem
 F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfo.cs
 F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
 F:\MyStudy\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
+F:\DotNetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.deps.json
+F:\DotNetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.json
+F:\DotNetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.dev.json
+F:\DotNetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+F:\DotNetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
+F:\DotNetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.csproj.CoreCompileInputs.cache
+F:\DotNetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfoInputs.cache
+F:\DotNetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfo.cs
+F:\DotNetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+F:\DotNetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
